@@ -1,0 +1,8 @@
+{
+    "actor_state_dict": <actor model weights>,
+    "critic_state_dict": <critic model weights>,
+    "target_actor_state_dict": <target actor model weights>,
+    "target_critic_state_dict": <target critic model weights>,
+    "actor_optimizer_state_dict": <actor optimizer state>,
+    "critic_optimizer_state_dict": <critic optimizer state>,
+}
